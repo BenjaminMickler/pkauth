@@ -25,6 +25,9 @@ Yet to be written.
 ## Documentation
 Yet to be written.
 
+## There hasn't been any development for some time, has it been abondoned?
+No. I am going into year 12 and do not have much time to be constantly working on these projects but I am happy to merge pull requests and will address issues.
+
 ## License and copyright
 Copyright (c) Benjamin Mickler, 2022
 
